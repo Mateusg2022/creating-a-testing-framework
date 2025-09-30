@@ -1,5 +1,5 @@
-from TestResult import TestResult
-from TestCase import TestCase
+from .TestResult import TestResult
+from .TestCase import TestCase
 
 class MyTest(TestCase):
 
